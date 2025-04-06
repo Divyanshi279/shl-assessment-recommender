@@ -1,0 +1,4 @@
+Assessment Name,URL,Remote,Adaptive,Duration,Type,embedding_text
+Cognitive Ability Test,https://www.shl.com/cognitive,Yes,Yes,40 mins,Cognitive,Cognitive skills problem solving reasoning
+Personality Profile Test,https://www.shl.com/personality,Yes,No,25 mins,Personality,Behavior motivation preferences
+Tech Skills Test - Python,https://www.shl.com/python,Yes,Yes,60 mins,Technical,Python SQL JavaScript programming coding

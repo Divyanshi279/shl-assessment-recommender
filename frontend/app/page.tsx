@@ -1,0 +1,1 @@
+// React frontend connects to FastAPI and renders results
